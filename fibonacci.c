@@ -1,3 +1,15 @@
+/*---------------------------------------
+UNIVERSIDAD DEL VALLE DE GUATEMALA
+CC3056 - Programacion de Microprocesadores
+Autores:  Vianka Castro 23201
+          Ricardo Arturo 23247
+Fecha: 09/04/2024
+Mod:   09/06/2024
+fibonacci.c
+Calculo de valores de Fibonacci 
+y Sumatoria de todos al final
+---------------------------------------*/
+
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>

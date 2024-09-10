@@ -1,3 +1,14 @@
+/*---------------------------------------
+UNIVERSIDAD DEL VALLE DE GUATEMALA
+CC3056 - Programacion de Microprocesadores
+Autores:  Vianka Castro 23201
+          Ricardo Arturo 23247
+Fecha: 09/04/2024
+Mod:   09/06/2024
+p2B.c
+Imprimir Hola Mundo hilo 
+pero utilizando el mismo for con pthread_join
+---------------------------------------*/
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
